@@ -1,10 +1,10 @@
 plugins { id 'com.android.application' }
 
 android {
-    namespace 'com.example.snake'
+    namespace 'com.alexeevprog.a2048game'
     compileSdk 34
     defaultConfig {
-        applicationId "com.example.snake"
+        applicationId "com.alexeevprog.a2048game"
         minSdk 21
         targetSdk 34
         versionCode 1
